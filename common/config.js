@@ -1,0 +1,1 @@
+export const baseUrl = 'https://netease-cloud-music-api-aw0sxsjq7-mcwmengxi.vercel.app';
